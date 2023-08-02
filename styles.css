@@ -14,8 +14,8 @@
 }
 
 .cirle {
-  width: 270px;
-  height: 270px;
+  width: 100px;
+  height: 80px;
   background: palevioletred;
   border-radius: 300px;
   display: flex;
